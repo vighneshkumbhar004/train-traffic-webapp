@@ -1,7 +1,7 @@
 
   # AI Train Traffic Control System
 
-  This is a code bundle for AI Train Traffic Control System. The original project is available at https://www.figma.com/design/qJYCjsUmVb0zG73xi3qkN7/AI-Train-Traffic-Control-System.
+  This is a code bundle for AI Train Traffic Control System. The original project is available at https://train-traffic-webapp-pd1i.vercel.app/
 
   ## Running the code
 
