@@ -1,9 +1,4 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/node"
-    }
-  ],
+  "buildCommand": "pnpm build",
   "outputDirectory": "dist"
 }
